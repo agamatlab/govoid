@@ -52,4 +52,4 @@ go run main.go
 
 ## License
 
-[MIT](LICENSE) (or specify your license)
+[MIT](LICENSE)
